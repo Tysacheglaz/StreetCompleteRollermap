@@ -14,6 +14,7 @@
         fill: #cacbc0;
       }</style>
  </defs>
+ <circle r="1e5" fill="#529add"/>
  <g id="roller-skates" fill-rule="evenodd" stroke="#4e4e4e">
   <path class="cls-3" d="m210 256c-20.987 0-38-17.013-38-38s17.013-38 38-38 38 17.013 38 38-17.013 38-38 38zm0-48c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10-4.477-10-10-10zm-86 48c-20.987 0-38-17.013-38-38s17.013-38 38-38 38 17.013 38 38-17.013 38-38 38zm0-48c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10-4.477-10-10-10zm-86 48c-20.987 0-38-17.013-38-38s17.013-38 38-38 38 17.013 38 38-17.013 38-38 38zm0-48c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10-4.477-10-10-10z"/>
   <path class="cls-3" d="m24.587 103.58 12.413-87.581c0-8.837 7.163-16 16-16h53c8.836-0 16 7.163 16 16 0 0-3.927 49.875-3.927 49.875l-93.486 37.706z"/>
@@ -23,14 +24,14 @@
  </g>
  <metadata>
   <rdf:RDF>
+   <cc:Work rdf:about="">
+    <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+   </cc:Work>
    <cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
     <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
     <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
     <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
    </cc:License>
-   <cc:Work rdf:about="">
-    <cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
-   </cc:Work>
   </rdf:RDF>
  </metadata>
 </svg>
