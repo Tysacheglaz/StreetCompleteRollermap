@@ -162,6 +162,7 @@ import de.westnordost.streetcomplete.quests.sidewalk.AddSidewalk
 import de.westnordost.streetcomplete.quests.smoking.AddSmoking
 import de.westnordost.streetcomplete.quests.smoothness.AddPathSmoothness
 import de.westnordost.streetcomplete.quests.smoothness.AddRoadSmoothness
+import de.westnordost.streetcomplete.quests.smoothnessinlineskates.AddSmoothnessinlineskates
 import de.westnordost.streetcomplete.quests.sport.AddSport
 import de.westnordost.streetcomplete.quests.step_count.AddStepCount
 import de.westnordost.streetcomplete.quests.step_count.AddStepCountStile
@@ -331,6 +332,7 @@ fun questTypeRegistry(
     42 to AddTrafficSignalsSound(), // Sound needs to be done as or after you're crossing
 
     /* ↓ 2.solvable when right in front of it ----------------------------------------------- */
+    200 to AddSmoothnessinlineskates(),
     45 to AddInformationToTourism(), // OSM Carto
 
     46 to AddPoliceType(),

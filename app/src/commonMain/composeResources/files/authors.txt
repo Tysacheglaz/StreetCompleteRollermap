@@ -353,6 +353,12 @@ tracktype_grade3.jpg           CC-BY-SA 2.0?     https://wiki.openstreetmap.org/
 tracktype_grade4.jpg           Public Domain     https://github.com/streetcomplete/StreetComplete/pull/959#issuecomment-427905219 (Bjorn Rasmussen)
 tracktype_grade5.jpg           CC-0 1.0          https://commons.wikimedia.org/wiki/File:Track_in_Schwinkendorf_2021-09-07_04.jpg (Leonhard Lenz)
 
+smoothness_inlineskates_excellent.jpg    Public Domain
+smoothness_inlineskates_good.jpg         Public Domain
+smoothness_inlineskates_intermediate.jpg Public Domain
+smoothness_inlineskates_bad.jpg          Public Domain
+smoothness_inlineskates_verybad.jpg      Public Domain
+
 vibrating_button_illustrati... CC-BY 4.0         Tobias Zwick
 vibrating_button_i... (MCC234) CC0               CJ Malone
 vibrating_button_i... (MCC505) CC0               https://commons.wikimedia.org/wiki/File:An_Australian_pedestrian_crossing_button.jpg (James Cridland)
