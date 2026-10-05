@@ -28,7 +28,7 @@ class AddSmoothnessinlineskates : OsmFilterQuestType<Smoothnessinlineskates>() {
     """
 
     override val changesetComment = "Specify smoothness for inlineskates"
-//    override val wikiLink = "Key:smoothness:inlineskates"
+    override val wikiLink = "Key:smoothness:inlineskates"
     override val icon = Res.drawable.quest_inlineskates
     override val title = Res.string.quest_smoothnessinlineskates_title
     override val achievements = listOf(PEDESTRIAN)
