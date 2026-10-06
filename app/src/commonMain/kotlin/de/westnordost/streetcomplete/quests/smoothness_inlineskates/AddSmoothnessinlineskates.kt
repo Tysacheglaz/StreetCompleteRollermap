@@ -24,17 +24,6 @@ class AddSmoothnessinlineskates : OsmFilterQuestType<Smoothnessinlineskates>() {
           and (access !~ private|no or (foot and foot !~ private|no))
     """
 
-    override fun getHighlightedElements(element: Element, mapData: MapDataWithGeometry) =
-        mapData.filter("""
-            ways with
-              highway = footway
-              or highway = path
-              or highway = cycleway
-              or highway = pedestrian
-              or leisure = track
-        """)
-
-    override val highlightedElementsRadius = 100.0
     override val changesetComment = "Specify smoothness for inlineskates"
     override val wikiLink = "Key:smoothness:inlineskates"
     override val icon = Res.drawable.quest_inlineskates
