@@ -20,12 +20,12 @@ class AddSmoothnessinlineskates : OsmFilterQuestType<Smoothnessinlineskates>() {
     override val elementFilter = """
         ways with
           ( highway = footway or highway = path or highway = cycleway or leisure=track or highway=pedestrian )
-          and !smoothness:inlineskates
+          and !smoothness:inline_skates
           and (access !~ private|no or (foot and foot !~ private|no))
     """
 
     override val changesetComment = "Specify smoothness for inlineskates"
-    override val wikiLink = "Key:smoothness:inlineskates"
+    override val wikiLink = "Key:smoothness:inline_skates"
     override val icon = Res.drawable.quest_inlineskates
     override val title = Res.string.quest_smoothnessinlineskates_title
     override val achievements = listOf(PEDESTRIAN)
@@ -41,6 +41,6 @@ class AddSmoothnessinlineskates : OsmFilterQuestType<Smoothnessinlineskates>() {
     }
 
     override fun applyAnswerTo(answer: Smoothnessinlineskates, tags: Tags, geometry: ElementGeometry, timestampEdited: Long) {
-        tags.updateWithCheckDate("smoothness:inlineskates", answer.osmValue)
+        tags.updateWithCheckDate("smoothness:inline_skates", answer.osmValue)
     }
 }

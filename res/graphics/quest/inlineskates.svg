@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg width="800px" height="800px" preserveAspectRatio="xMidYMid" version="1.1" viewBox="-4 0 256 256" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg width="100%" height="100%" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <defs>
   <style>.cls-3 {
         fill: #fefce9;
@@ -14,7 +14,7 @@
         fill: #cacbc0;
       }</style>
  </defs>
- <circle r="1e5" fill="#529add"/>
+ <circle cx="50%" cy="50%" r="50%" fill="#529add" />
  <g id="roller-skates" fill-rule="evenodd" stroke="#4e4e4e">
   <path class="cls-3" d="m210 256c-20.987 0-38-17.013-38-38s17.013-38 38-38 38 17.013 38 38-17.013 38-38 38zm0-48c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10-4.477-10-10-10zm-86 48c-20.987 0-38-17.013-38-38s17.013-38 38-38 38 17.013 38 38-17.013 38-38 38zm0-48c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10-4.477-10-10-10zm-86 48c-20.987 0-38-17.013-38-38s17.013-38 38-38 38 17.013 38 38-17.013 38-38 38zm0-48c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10-4.477-10-10-10z"/>
   <path class="cls-3" d="m24.587 103.58 12.413-87.581c0-8.837 7.163-16 16-16h53c8.836-0 16 7.163 16 16 0 0-3.927 49.875-3.927 49.875l-93.486 37.706z"/>
