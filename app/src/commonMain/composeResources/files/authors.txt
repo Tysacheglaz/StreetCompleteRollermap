@@ -421,6 +421,12 @@ via_ferrata_scale_4.jpg        CC-BY-SA-2.0      https://wiki.openstreetmap.org/
 via_ferrata_scale_5.jpg        CC-BY-SA-2.0      https://wiki.openstreetmap.org/wiki/File:Bergfuehrerquergang.jpg
 via_ferrata_scale_6.jpg        CC-BY-SA-2.5      https://commons.wikimedia.org/wiki/File:Eggst%C3%B6cke_-_H.jpg
 
+smoothness_inlineskates_excellent.jpg    Public Domain
+smoothness_inlineskates_good.jpg         Public Domain
+smoothness_inlineskates_intermediate.jpg Public Domain
+smoothness_inlineskates_bad.jpg          Public Domain
+smoothness_inlineskates_verybad.jpg      Public Domain
+
 vibrating_button_illustrati... CC-BY 4.0         Tobias Zwick
 vibrating_button_i... (MCC234) CC0               CJ Malone
 vibrating_button_i... (MCC505) CC0               https://commons.wikimedia.org/wiki/File:An_Australian_pedestrian_crossing_button.jpg (James Cridland)
