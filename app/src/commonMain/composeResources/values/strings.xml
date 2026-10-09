@@ -1731,6 +1731,13 @@
     <string name="quest_tracktype_grade4">Mostly soft</string>
     <string name="quest_tracktype_grade5">Soft</string>
 
+    <string name="quest_smoothnessinlineskates_title">What’s the smoothness of this footway?</string>
+    <string name="quest_smoothnessinlineskates_excellent">Excellent</string>
+    <string name="quest_smoothnessinlineskates_good">Good</string>
+    <string name="quest_smoothnessinlineskates_intermediate">Intermediate</string>
+    <string name="quest_smoothnessinlineskates_bad">Bad</string>
+    <string name="quest_smoothnessinlineskates_verybad">Very bad</string>
+
     <string name="quest_entrance_reference">What is signed at this entrance?</string>
     <string name="quest_entrance_reference_select_flat_range_and_code">Entrance label and range of flats</string>
     <string name="quest_entrance_reference_select_flat_range_only">Range of flats</string>

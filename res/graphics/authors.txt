@@ -359,6 +359,7 @@ quest/
     housenumber.svg
     housenumber_street.svg
     information.svg
+    inlineskates.svg                 recoloured https://www.svgrepo.com/svg/506696/roller-skates, PD License
     kerb_tactile_paving.svg
     kerb_type.svg
     kosher.svg                       Mateusz Konieczny (CC0, if even qualifies for copyright)
