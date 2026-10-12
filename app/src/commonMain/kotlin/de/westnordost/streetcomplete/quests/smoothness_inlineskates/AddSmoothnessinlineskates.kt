@@ -23,7 +23,7 @@ class AddSmoothnessinlineskates : OsmFilterQuestType<Smoothnessinlineskates>() {
           ( highway = footway or highway = path or highway = cycleway or leisure=track or highway=pedestrian )
           and !smoothness:inline_skates
           and (access !~ private|no or (foot and foot !~ private|no))
-          and ( !surface or (surface ~ ${FULLY_PAVED_SURFACES.joinToString("|") and surface != tartan and surface != rubber) )
+          and ( !surface or (surface ~ ${FULLY_PAVED_SURFACES.joinToString("|")} and surface != tartan and surface != rubber) )
     """
 
     override val changesetComment = "Specify smoothness for inlineskates"
