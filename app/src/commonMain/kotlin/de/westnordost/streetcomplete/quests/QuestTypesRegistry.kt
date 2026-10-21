@@ -418,7 +418,6 @@ fun getQuestTypeList(
     42 to AddTrafficSignalsSound(), // Sound needs to be done as or after you're crossing
 
     /* ↓ 2.solvable when right in front of it ----------------------------------------------- */
-    200 to AddSmoothnessinlineskates(),
     45 to AddInformationToTourism(), // OSM Carto
 
     46 to AddPoliceType(),
@@ -637,6 +636,7 @@ fun getQuestTypeList(
     146 to AddCyclewayPartSurface(),
     147 to AddSidewalkSurface(),
     148 to AddCyclewayWidth(arSupportChecker), // should be after cycleway segregation
+    200 to AddSmoothnessinlineskates(),
 
     /* should best be after road surface because it excludes unpaved roads, also, need to search
      * for the sign which is one reason why it is disabled by default */
